@@ -1,0 +1,8 @@
+body{
+    background-color: purple;
+}
+#one{
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+}
